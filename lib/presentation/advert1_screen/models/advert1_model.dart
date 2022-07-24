@@ -1,0 +1,1 @@
+class Advert1Model {}
